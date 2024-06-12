@@ -1,4 +1,4 @@
-name: Build Androi
+name: Build Android
 
 on:
   [push, pull_request, workflow_dispatch]
